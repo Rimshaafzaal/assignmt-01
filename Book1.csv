@@ -1,0 +1,6 @@
+ date_time,holiday,air_pollution,humidity,wind speed,wind direction,visibility in miles,dew_point,temperature,rain_p_h,snow _p_h,cloud_all,weather_type,weather_description
+#########,none,75,63,1,27,4,4,285.15,0,0,90,rain,moderate rain
+########,none,231,63,1,27,4,4,285.15,0,0,90,mist,mist
+########,none,73,45,2,0,2,2,284.79,0,0,90,drizzle,light intensity drizzle
+########,none,98,55,2,352,1,1,284.79,0,0,90,rain,moderate rain
+########,none,74,45,1,27,4,4,283.51,0,0,90,mist,mist
